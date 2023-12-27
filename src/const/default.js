@@ -42,7 +42,7 @@ export const supportInfo = [
     {
         title:"tel:12023187949",
         icon : phone,
-        info : "(202)-318-7949"
+        info : "(817) 725-3235"
     },
     {
         title:"location",
@@ -59,7 +59,7 @@ export const supportInfo = [
 export const supportInfo_secondary = [
     {
         icon : phoneSecondary,
-        info : "(202)-318-7949",
+        info : "(817) 725-3235",
         title:"tel:12023187949"
     },
     {
